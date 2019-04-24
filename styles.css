@@ -8,7 +8,10 @@
     color: red;
     text-decoration: underline;
     border:thin solid red;
-    width:50px;
+    width:50%;
     height:50px;
     box-shadow:3px 3px 3px black;
+}
+title{
+    color:burlywood;
 }
